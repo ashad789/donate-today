@@ -15,7 +15,8 @@ section {
 }
 
 #banner-div {
-    padding: 5% 15% 20% 20%;
+    margin-bottom: 50px;
+    padding: 5% 22% 15% 22%;
     color: rgb(247, 248, 222);
 }
 
@@ -47,8 +48,8 @@ section {
     padding: 10px 40px;
     text-decoration: none;
     border-radius: 5px;
-    margin-left: 40%;
-    margin-right: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 
@@ -125,7 +126,7 @@ footer h1 {
 
 #form {
     background-color: rgb(252, 232, 232);
-    margin: 5% 20%;
+    margin: 5% 15%;
     padding-left: 60px;
     padding-right: 60px;
     padding-top: 50px;
@@ -136,13 +137,12 @@ footer h1 {
 #email {
     margin-right: -0.5px;
     border-style: none;
-    color: black;
+    color: rgb(127, 113, 113);
     background-color: rgb(214, 203, 203);
     border-top-left-radius: 7px;
     border-bottom-left-radius: 7px;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
-    color: rgb(252, 241, 227);
     padding: 10px 30px;
 }
 
