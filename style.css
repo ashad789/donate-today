@@ -1,0 +1,160 @@
+body {
+    font-family: 'Gentium Book Plus', serif;
+    text-align: center;
+    margin: 0;
+}
+
+#banner {
+    background-image: url(images/Banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+section {
+    margin-bottom: 130px;
+}
+
+#banner-div {
+    padding: 5% 15% 20% 20%;
+    color: rgb(247, 248, 222);
+}
+
+.header1 {
+    font-size: 60px;
+    color: white;
+}
+
+.header2 {
+    font-size: 40px;
+}
+
+.header3 {
+    color: black;
+}
+
+.div {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 20px;
+}
+
+.button-donate-now {
+    color: white;
+    font-weight: 700;
+    background-color: tomato;
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+
+.button-tk {
+    font-size: 22px;
+    color: rgb(123, 117, 117);
+    font-weight: 700;
+    padding: 25px 13px;
+    border-radius: 5px;
+    border-color: white;
+    margin: 5px;
+    background-color: rgb(245, 237, 237);
+}
+
+footer {
+    background-color: rgb(9, 8, 8);
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer h1 {
+    color: rgb(232, 61, 31);
+    font-style: italic;
+    font-size: 30px;
+}
+
+
+.flexibal-container {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.item-container {
+    border-radius: 5px;
+    color: dimgray;
+    padding: 2%;
+    text-align: left;
+    background-color: rgb(191, 243, 225);
+    margin: 12px;
+    width: 30%;
+}
+
+#item-container2 {
+    background-color: rgb(241, 232, 220);
+}
+
+#item-container3 {
+    background-color: rgb(202, 228, 246);
+}
+
+.image {
+    align-items: initial;
+    padding-top: 40px;
+    width: 60px;
+}
+
+#subscribe {
+    margin-left: -4px;
+    font-weight: 700;
+    border-style: none;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    color: antiquewhite;
+    background-color: rgb(239, 72, 43);
+    padding: 10px 30px;
+}
+
+#form {
+    background-color: rgb(252, 232, 232);
+    margin: 5% 20%;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: block;
+}
+
+#email {
+    margin-right: -0.5px;
+    border-style: none;
+    color: black;
+    background-color: rgb(214, 203, 203);
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    color: rgb(252, 241, 227);
+    padding: 10px 30px;
+}
+
+#other-amount {
+    border: none;
+    color: rgb(158, 155, 155);
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: large;
+}
+
+.paragraph {
+    text-align: center;
+}
